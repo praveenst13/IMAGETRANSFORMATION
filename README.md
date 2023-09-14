@@ -173,7 +173,7 @@ plt.show()
 
 ### ii) Image Scaling
 ![](https://github.com/praveenst13/IMAGETRANSFORMATION/assets/118787793/d8b18011-9e97-4f49-a7ad-b97be97acd8d)
--79b63e59db6c)
+
 
 ### iii)Image shearing
 
